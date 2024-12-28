@@ -1,0 +1,9 @@
+* ningle-fbr
+
+File-based router for ningle
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/skyizwhite/ningle-fbr.git |
+| commit  | 1151e4a                                          |
+| systems | ningle-fbr                                       |
+|---------+--------------------------------------------------|
