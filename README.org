@@ -4,7 +4,7 @@ File-based router for ningle
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/skyizwhite/ningle-fbr.git |
-| commit  | beec070                                          |
+| commit  | f23f589                                          |
 | systems | ningle-fbr                                       |
 |---------+--------------------------------------------------|
  
